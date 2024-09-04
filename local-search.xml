@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>example</title>
+    <link href="/2024/09/05/example-1/"/>
+    <url>/2024/09/05/example-1/</url>
+    
+    <content type="html"><![CDATA[<p>example test</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>test</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2024/09/04/hello-world/"/>
     <url>/2024/09/04/hello-world/</url>

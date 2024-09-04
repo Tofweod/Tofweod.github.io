@@ -1,27 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Tofweod</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://tofweod.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2024-09-04T12:37:29.812Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://tofweod.github.io/"/>
+  <updated>2024-09-04T18:42:52.760Z</updated>
+  <id>http://tofweod.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Tofweod</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>example</title>
+    <link href="http://tofweod.github.io/2024/09/05/example-1/"/>
+    <id>http://tofweod.github.io/2024/09/05/example-1/</id>
+    <published>2024-09-04T18:42:00.000Z</published>
+    <updated>2024-09-04T18:42:52.760Z</updated>
+    
+    <content type="html"><![CDATA[<p>example test</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;example test&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="test" scheme="http://tofweod.github.io/categories/test/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2024/09/04/hello-world/"/>
-    <id>http://example.com/2024/09/04/hello-world/</id>
-    <published>2024-09-04T12:37:29.812Z</published>
-    <updated>2024-09-04T12:37:29.812Z</updated>
+    <link href="http://tofweod.github.io/2024/09/04/hello-world/"/>
+    <id>http://tofweod.github.io/2024/09/04/hello-world/</id>
+    <published>2024-09-04T12:37:00.000Z</published>
+    <updated>2024-09-04T18:03:31.706Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">"My New Post"</span><br></code></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     

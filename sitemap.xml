@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>http://tofweod.github.io/2024/09/05/example-1/</loc>
     
     <lastmod>2024-09-04</lastmod>
     
@@ -11,7 +11,16 @@
   </url>
   
   <url>
-    <loc>http://example.com/2024/09/04/hello-world/</loc>
+    <loc>http://tofweod.github.io/2024/09/04/hello-world/</loc>
+    
+    <lastmod>2024-09-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://tofweod.github.io/about/index.html</loc>
     
     <lastmod>2024-09-04</lastmod>
     
@@ -21,7 +30,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://tofweod.github.io/</loc>
     <lastmod>2024-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -29,5 +38,12 @@
 
   
 
+  
+  <url>
+    <loc>http://tofweod.github.io/categories/test/</loc>
+    <lastmod>2024-09-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>

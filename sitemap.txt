@@ -1,3 +1,5 @@
-http://example.com/about/index.html
-http://example.com/2024/09/04/hello-world/
-http://example.com/
+http://tofweod.github.io/2024/09/05/example-1/
+http://tofweod.github.io/2024/09/04/hello-world/
+http://tofweod.github.io/about/index.html
+http://tofweod.github.io/
+http://tofweod.github.io/categories/test/
